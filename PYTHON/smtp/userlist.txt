@@ -1,0 +1,6 @@
+zero
+recruta
+ninja
+msfadmin
+root
+tomcat5
